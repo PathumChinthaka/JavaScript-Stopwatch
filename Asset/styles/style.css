@@ -27,11 +27,11 @@ body{
 .container h2{
     margin-bottom: 20px;
     font-size: 45px;
-    color:rgb(241, 219, 191);
 }
 
 .container p{
     font-size: 45px;
+    font-weight: 500;
 }
 
 .btn-group{
