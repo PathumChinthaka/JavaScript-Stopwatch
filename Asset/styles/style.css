@@ -18,25 +18,28 @@ body{
     color: white;
     text-align: center;
     align-items: center;
-    margin-top: calc(100vh/3);
+    margin-top: calc(100vh/3.5);
 }
 
 .container h1{
     margin-bottom: 20px;
     font-size: 50px;
+    color: gold;
 }
 
 .container h2{
     margin-bottom: 20px;
     font-size: 45px;
+    color: yellow;
 }
 
 .container p{
     font-size: 45px;
     font-weight: 500;
-    background-color: rgb(56, 54, 54);
+    background-color: rgb(66, 68, 67);
     border-radius: 5px;
     padding: 10px;
+    border: 2px solid #cccf0c;
 }
 
 .btn-group{
@@ -45,10 +48,13 @@ body{
 
 button{
     margin: 15px 20px;
-    border: none;
+    border: 2px solid rgb(141, 226, 12);
     padding: 12px;
     width: 100px;
     border-radius: 5px;
     font-size: 16px;
     font-weight: bold;
+    background-color: rgb(102, 104, 102);
+    color: white;
+    text-align: center;
 }
