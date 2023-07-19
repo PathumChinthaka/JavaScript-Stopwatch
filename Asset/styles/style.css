@@ -7,6 +7,8 @@
 body{
     background-color: orange;
     font-family: 'Roboto',sans-serif;
+    background-image: url('/Asset/images/background.jpg');
+    background-size: cover;
 }
 
 .container{
@@ -32,6 +34,9 @@ body{
 .container p{
     font-size: 45px;
     font-weight: 500;
+    background-color: rgb(56, 54, 54);
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .btn-group{
